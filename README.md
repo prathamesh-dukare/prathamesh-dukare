@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prathamesh-Dukare
 - 👀 I’m interested in development
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ML Peojects
+- 💞️ I’m looking to collaborate on ML Project
 - 📫 How to reach me ..?
      prathameshdukaremail@gmail.com
 
