@@ -2,7 +2,7 @@
 <h3 align="center">Front End Web Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathamesh-Dukare" alt="Prathamesh-Dukare" /> </p>
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Prathamesh-Dukare)
+- 👨‍💻 All of my projects are available at [Github ](https://github.com/Prathamesh-Dukare)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
