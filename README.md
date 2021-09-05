@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [Github ](https://github.com/Prathamesh-Dukare)
 
-- 💬 Ask me about **HTML, CSS, JavaScript React **
+- 💬 Ask me about **HTML, CSS, JavaScript React**
 
 - 📫 How to reach me **Prathameshdukaremail@gmail.com**
 
