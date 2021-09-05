@@ -2,6 +2,8 @@
 <h3 align="center">Front End Web Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathamesh-Dukare" alt="Prathamesh-Dukare" /> </p>
 
+<p align="left"> <a href="https://twitter.com/prathameshtwits" target="blank"><img src="https://img.shields.io/twitter/follow/prathameshtwits?logo=twitter&style=for-the-badge" alt="prathameshtwits" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [Github ](https://github.com/Prathamesh-Dukare)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
