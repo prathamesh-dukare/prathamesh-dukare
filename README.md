@@ -19,16 +19,15 @@
 
 ### **Tools and Technology I Knows.**
 <br>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<hr/>
+<code><a href="https://www.python.org/" target="_blank"><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a></code>
+<code><a href="https://nodejs.org/" target="_blank"><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank"><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank"><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
+<code><a href="https://getbootstrap.com/" target="_blank"><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a></code>
 
 <a href="https://github.com/Prathamesh-Dukare/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-Dukare&theme=radical&hide=glsl,python" />
