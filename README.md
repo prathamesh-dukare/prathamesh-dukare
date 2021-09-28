@@ -2,7 +2,13 @@
 <h3 align="center">Front End Web Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathamesh-Dukare" alt="Prathamesh-Dukare" /> </p><p align="left"> <a href="https://twitter.com/prathameshtwits" target="blank"><img src="https://img.shields.io/twitter/follow/prathameshtwits?logo=twitter&style=for-the-badge" alt="prathameshtwits" /></a> </p>
 
+<a href="https://www.linkedin.com/in/prathamesh-dukare" target="_blank">
+  <img align="left" alt="Prathamesh Dukare | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+<a href="https://www.twitter.com/prathameshtwits" target="_blank">
+  <img align="left" alt="Prathamesh on Twitter | Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
 - 👨‍💻 All of my projects are available at [Github ](https://github.com/Prathamesh-Dukare)
 
