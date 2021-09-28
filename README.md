@@ -9,7 +9,7 @@
   <img align="left" alt="Prathamesh on Twitter | Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <br><hr>
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Prathamesh-Dukare)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/Prathamesh-Dukare?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, JavaScript React**
 
