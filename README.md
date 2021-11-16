@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/prathameshdukare" target="_blank">
   <img align="left" alt="Prathamesh Dukare | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://dev.to/prathameshkdukare" target="_blank">
+  <img align="left" alt="Prathamesh Dukare | Dev Community" src="https://img.shields.io/badge/dev-000000.svg?&style=for-the-badge&logo=Dev&logoColor=white" />
+</a>
 <a href="https://www.twitter.com/prathameshtwits" target="_blank">
   <img align="left" alt="Prathamesh on Twitter | Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
