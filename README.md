@@ -14,11 +14,8 @@
 <br><hr>
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/Prathamesh-Dukare?tab=repositories)
-
 - 💬 Ask me about **HTML, CSS, JavaScript React**
-
 - 📫 How to reach me **Prathameshdukaremail@gmail.com**
-
 - ⚡ Fun fact **Sometimes I go lost in the glory of Universe**
 
 ### **Tools and Technology I Knows.**
