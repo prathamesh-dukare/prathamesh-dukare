@@ -12,8 +12,6 @@
   <img align="left" alt="Prathamesh on Twitter | Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <br><hr>
-
-- 👨‍💻 All of my projects are available on [Github](https://github.com/Prathamesh-Dukare?tab=repositories)
 - 💬 Ask me about **JavaScript, React, Front-End Web Dev**
 - 📫 How to reach me **Prathameshdukaremail@gmail.com**
 - ⚡ Fun fact **Sometimes I go lost in the glory of Universe**
