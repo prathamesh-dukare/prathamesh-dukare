@@ -18,15 +18,13 @@
 - 📫 How to reach me **Prathameshdukaremail@gmail.com**
 - ⚡ Fun fact **Sometimes I go lost in the glory of Universe**
 
-📝📩 Latest Blog Posts
 
+📝📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Getting started with Git & GitHub](https://dev.to/prathameshkdukare/getting-started-with-git-github-1c1i)
 - [Front-End Roadmap for begginers](https://dev.to/prathameshkdukare/front-end-roadmap-for-begginers-379i)
 - [* As A Service Explained!](https://dev.to/prathameshkdukare/as-a-service-4coc)
-
 <!-- BLOG-POST-LIST:END -->
-
 <br>
 <hr>
 
