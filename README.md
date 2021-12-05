@@ -25,7 +25,6 @@
 - [Front-End Roadmap for begginers](https://dev.to/prathameshkdukare/front-end-roadmap-for-begginers-379i)
 - [* As A Service Explained!](https://dev.to/prathameshkdukare/as-a-service-4coc)
 <!-- BLOG-POST-LIST:END -->
-<br>
 <hr>
 
 ### **Tools and Technology I Knows.**
