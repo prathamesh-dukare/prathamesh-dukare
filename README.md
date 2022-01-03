@@ -3,16 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathamesh-Dukare" alt="Prathamesh-Dukare" /> </p><a href="https://twitter.com/prathameshtwits" target="blank"><img src="https://img.shields.io/twitter/follow/prathameshtwits?logo=twitter&style=for-the-badge" alt="prathameshtwits" /></a>
 
 <a href="https://www.linkedin.com/in/prathameshdukare" target="_blank">
-  <img align="left" alt="Prathamesh Dukare | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Prathamesh Dukare | Linkedin" src="https://img.shields.io/badge/PrathameshDukare-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://dev.to/prathameshkdukare" target="_blank">
-  <img align="left" alt="Prathamesh Dukare | Dev Community" src="https://img.shields.io/badge/dev-000000.svg?&style=for-the-badge&logo=Dev&logoColor=white" />
+  <img align="left" alt="Prathamesh Dukare | Dev Community" src="https://img.shields.io/badge/Prathamesh-Dev-000000.svg?&style=for-the-badge&logo=Dev&logoColor=white" />
 </a>
 <a href="https://instagram.com/its_duke__" target="_blank">
-  <img align="left" alt="Prathamesh Dukare | Instagram" src="https://img.shields.io/badge/@thepushkarp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="Prathamesh Dukare | Instagram" src="https://img.shields.io/badge/@its_duke__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.twitter.com/prathameshtwits" target="_blank">
-  <img align="left" alt="Prathamesh on Twitter | Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img align="left" alt="Prathamesh on Twitter | Twitter" src="https://img.shields.io/badge/prathameshtwits-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <br><hr>
 
