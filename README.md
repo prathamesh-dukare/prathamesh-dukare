@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prathamesh Dukare</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px">, I'm Prathamesh Dukare</h1>
 <h3 align="center">Front End Web Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathamesh-Dukare" alt="Prathamesh-Dukare" /> </p>
 
