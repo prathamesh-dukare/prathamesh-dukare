@@ -25,7 +25,7 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Crework Experience](https://dev.to/prathameshkdukare/getting-started-with-git-github-1c1i](https://prathameshdukare.hashnode.dev/the-crework-experience)
+- [Getting started with Git & GitHub](https://dev.to/prathameshkdukare/getting-started-with-git-github-1c1i)
 - [Getting started with Git & GitHub](https://dev.to/prathameshkdukare/getting-started-with-git-github-1c1i)
 - [Front-End Roadmap for begginers](https://dev.to/prathameshkdukare/front-end-roadmap-for-begginers-379i)
 - [* As A Service Explained!](https://dev.to/prathameshkdukare/as-a-service-4coc)
