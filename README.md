@@ -61,7 +61,7 @@
 <a href="https://twitter.com/prathameshtwits" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prathameshdukare" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/prathameshdukare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prathameshdukare" height="20" width="20" /></a>
 <a href="https://www.facebook.com/prathamesh.dukare.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="prathameshdukare" height="20" width="20" /></a>
-<a href="https://instagram.com/its_duke__?igshid=1d2t9sxfqwhkp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prathameshdukare" height="20" width="20" /></a>
+<a href="https://instagram.com/its_duke__?igshid=1d2t9sxfqwhkp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prathameshdukare" height="20" width="20"/></a>
 </p>
 
 <!---
