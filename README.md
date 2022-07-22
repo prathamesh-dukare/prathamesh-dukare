@@ -13,7 +13,10 @@
   <img align="left" alt="Prathamesh Dukare | Instagram" src="https://img.shields.io/badge/@its_duke__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
- ![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/prathamesh?style=for-the-badge) 
+<a href="https://peerlist.io/prathamesh" target="_blank">
+   ![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/prathamesh?style=for-the-badge) 
+</a>
+
  
 <a href="https://www.twitter.com/prathameshtwits" target="_blank">
   <img align="left" alt="Prathamesh on Twitter | Twitter" src="https://img.shields.io/badge/prathameshtwits-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
