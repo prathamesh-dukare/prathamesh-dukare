@@ -15,6 +15,10 @@
 <a href="https://www.twitter.com/prathameshtwits" target="_blank">
   <img align="left" alt="Prathamesh on Twitter | Twitter" src="https://img.shields.io/badge/prathameshtwits-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/vinitshahdeo?style=for-the-badge)
+<a href="https://www.twitter.com/prathameshtwits" target="_blank">
+  <img align="left" alt="Prathamesh on Twitter | Twitter" src="https://img.shields.io/badge/prathameshtwits-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
 <br><hr>
 
