@@ -16,7 +16,7 @@
  <a href="https://www.twitter.com/prathameshtwits" target="_blank">
   <img align="left" alt="Prathamesh on Twitter | Twitter" src="https://img.shields.io/badge/prathameshtwits-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-
+<a href="https://topmate.io/prathamesh"><img src="https://topmate-readme-badge.onrender.com/prathamesh?style=for-the-badge" alt="Connect on Topmate" /></a>
 
 <br><hr>
 
