@@ -14,7 +14,7 @@
 </a>
 <a href="https://topmate.io/prathamesh"><img src="https://topmate-readme-badge.onrender.com/prathamesh?style=for-the-badge" alt="Connect on Topmate" /></a>
 <hr>
-<img align="right" width="340" height="300" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
+<img align="right" width="280" height="250" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
 
 - 💬 *Ask me about* **JavaScript, React, Front-End and Back-End Web Development**
 - 📫 *Shoot me an email at* **Prathameshdukaremail@gmail.com**
