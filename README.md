@@ -18,7 +18,7 @@
 
 - 💬 *Ask me about* **JavaScript, React, Front-End and Back-End Web Development**
 - 📫 *Shoot me an email at* **Prathameshdukaremail@gmail.com**
-- ⚡ *Fun fact* : **I still don't know how to ride a bike properly even after riding it since 4 years 😬😀**
+- ⚡ *Fun fact* : **I still don't know how to ride a bike properly even after riding it since 4 years**
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
