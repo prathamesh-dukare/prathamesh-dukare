@@ -1,5 +1,4 @@
 <h1 align="center">Yo 👋, I'm Prathamesh Dukare ⛳</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathamesh-Dukare" alt="Prathamesh-Dukare" /> </p>
 
 <a href="https://peerlist.io/prathamesh" target="_blank">
   <img align="left" alt="Prathamesh Dukare | Peerlist" src="https://peerlist-readme-badge.herokuapp.com/api/prathamesh?style=for-the-badge" />
