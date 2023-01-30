@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, I'm Prathamesh Dukare ⛳</h1>
 
 <a href="https://peerlist.io/prathamesh" target="_blank">
-  <img align="left" alt="Prathamesh Dukare | Peerlist" src="https://peerlist-readme-badge.herokuapp.com/api/prathamesh?style=for-the-badge" />
+  <img align="left" alt="Prathamesh Dukare | Peerlist" src="https://github-readme-badge.peerlist.io/api/prathamesh?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/prathameshdukare" target="_blank">
