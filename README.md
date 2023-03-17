@@ -6,8 +6,12 @@
 
 <a href="https://www.linkedin.com/in/prathameshdukare" target="_blank">
   <img align="left" alt="Prathamesh Dukare | Linkedin" src="https://img.shields.io/badge/PrathameshDukare-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  
+ <a href="https://www.twitter.com/prathameshtwits" target="_blank">
+  <img align="left" alt="Prathamesh on Twitter | Twitter" src="https://img.shields.io/badge/prathameshtwits-00ACEE?style=for-the-badge&logo=twitter&logoColor=white" />
+   
 </a>
-
+✨🍃
 
 <hr>
 
