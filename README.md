@@ -19,7 +19,7 @@
 
 <img align="right" width="280" height="250" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
 
-- 💬 *Ask me about* **JavaScript, React, Nextjs etc Front-End and Back-End Web Development**
+- 💬 *Ask me about* **various technologies in Frontend and Backend engineering**
 - 📫 *Shoot me an email at* **Prathameshdukaremail@gmail.com**
 - ⚡ *Fun fact* : **I still don't know how to ride a bike properly even after riding it since 4 years**
 
