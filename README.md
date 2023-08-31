@@ -1,3 +1,5 @@
+<img alt="hello from prathamesh!" src="https://raw.githubusercontent.com/yashsehgal/yashsehgal/main/media/gh-profile-banner.png" />
+
 <h1 align="center">Yo 👋, I'm Prathamesh Dukare ⛳</h1>
 
 <a href="https://peerlist.io/prathamesh" target="_blank">
