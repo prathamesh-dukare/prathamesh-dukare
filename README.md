@@ -26,10 +26,8 @@
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Peerlist : Portfolio Re-imagined](https://prathameshdukare.hashnode.dev/portfolio-re-imagined)
-- [The Crework Experience](https://prathameshdukare.hashnode.dev/the-crework-experience)
-- [Getting started with Git & GitHub](https://dev.to/prathameshkdukare/getting-started-with-git-github-1c1i)
-- [Front-End Roadmap for begginers](https://dev.to/prathameshkdukare/front-end-roadmap-for-begginers-379i)
-- [* As A Service Explained!](https://dev.to/prathameshkdukare/as-a-service-4coc)
+- [The crework experience](https://prathameshdukare.hashnode.dev/the-crework-experience)
+- [Adapting to endure🦄](https://medium.com/@prathameshdukare/adapting-to-endure-99421f493253)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
