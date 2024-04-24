@@ -25,6 +25,7 @@
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Man-in-the-Middle attack? How can you prevent it?](https://codedamn.com/news/cyber-security/man-in-the-middle-attack)
 - [Peerlist : Portfolio Re-imagined](https://prathameshdukare.hashnode.dev/portfolio-re-imagined)
 - [The crework experience](https://prathameshdukare.hashnode.dev/the-crework-experience)
 - [Adapting to endure🦄](https://medium.com/@prathameshdukare/adapting-to-endure-99421f493253)
