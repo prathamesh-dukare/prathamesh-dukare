@@ -10,8 +10,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Currently listening 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fkz7ibkk37babwusaakdl2qmj&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=fkz7ibkk37babwusaakdl2qmj&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fkz7ibkk37babwusaakdl2qmj&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fkz7ibkk37babwusaakdl2qmj&redirect=true)
 <!---
 Prathamesh-Dukare/Prathamesh-Dukare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
