@@ -10,8 +10,10 @@
 - [Adapting to endure🦄](https://medium.com/@prathameshdukare/adapting-to-endure-99421f493253) - non-technical
 <!-- BLOG-POST-LIST:END -->
 
+<!---
 ### Currently listening / recent 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fkz7ibkk37babwusaakdl2qmj&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fkz7ibkk37babwusaakdl2qmj&redirect=true)
+--->
 
 <!---
 Prathamesh-Dukare/Prathamesh-Dukare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
