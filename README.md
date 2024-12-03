@@ -1,6 +1,6 @@
 ### Hola awesome ppl there 👋
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/prathameshv)](https://peerlist.io/prathamesh)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/prathamesh)](https://peerlist.io/prathamesh)
 
 ### Some recent writing  ✍️
 <!-- BLOG-POST-LIST:START -->
