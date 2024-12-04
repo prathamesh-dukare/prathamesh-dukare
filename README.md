@@ -1,6 +1,7 @@
-### Hola awesome ppl there 👋
+### Hello awesome ppl there 👋
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/prathamesh)](https://peerlist.io/prathamesh)
+<!--[![Peerlist](https://github-readme-badge.peerlist.io/api/prathamesh)](https://peerlist.io/prathamesh)-->
+![Prathamesh on Peerlist](https://github.com/user-attachments/assets/ffff9e2c-23e3-477c-b69d-8848f1eca6b0)
 
 ### Some recent writing  ✍️
 <!-- BLOG-POST-LIST:START -->
@@ -20,3 +21,4 @@
 Prathamesh-Dukare/Prathamesh-Dukare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
 --->
+
