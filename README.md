@@ -1,7 +1,8 @@
 ### Hello awesome ppl there 👋
 
 <!--[![Peerlist](https://github-readme-badge.peerlist.io/api/prathamesh)](https://peerlist.io/prathamesh)-->
-![Prathamesh on Peerlist](https://github.com/user-attachments/assets/ffff9e2c-23e3-477c-b69d-8848f1eca6b0)
+[![Peerlist](https://github.com/user-attachments/assets/ffff9e2c-23e3-477c-b69d-8848f1eca6b0)](https://peerlist.io/prathamesh)
+
 
 ### Some recent writing  ✍️
 <!-- BLOG-POST-LIST:START -->
