@@ -6,10 +6,10 @@
 
 ### Some recent writing  ✍️
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Uses SSE & Why it's a Great Idea](https://peerlist.io/prathamesh/articles/chatgpt-uses-sse-and-why-its-a-great-idea) - technical • new 🌱
 - [Once upon a time in UTC](https://peerlist.io/prathamesh/articles/once-upon-a-time-in-utc) - technical • new 🌱
 - [What's the point? - Understanding Life's Impermanence](https://prathameshdukare.substack.com/p/whats-the-point) - non-technical
 - [What is Man-in-the-Middle attack? How can you prevent it?](https://codedamn.com/news/cyber-security/man-in-the-middle-attack) - technical
-- [Maximizing Visibility: The Benefits of Cross-Posting Your Blog or Article](https://medium.com/@prathameshdukare/maximizing-visibility-the-benefits-of-cross-posting-your-blog-or-article-6dca55783bb2) - non-technical 
 - [Peerlist : Portfolio Re-imagined](https://medium.com/@prathameshdukare/portfolio-re-imagined-7d4e2ddc05b) - non-technical 
 - [Adapting to endure🦄](https://medium.com/@prathameshdukare/adapting-to-endure-99421f493253) - non-technical
 <!-- BLOG-POST-LIST:END -->
