@@ -10,6 +10,8 @@
 - [Once upon a time in UTC](https://peerlist.io/prathamesh/articles/once-upon-a-time-in-utc) - technical • new 🌱
 - [What's the point? - Understanding Life's Impermanence](https://prathameshdukare.substack.com/p/whats-the-point) - non-technical
 - [What is Man-in-the-Middle attack? How can you prevent it?](https://codedamn.com/news/cyber-security/man-in-the-middle-attack) - technical
+
+<!---
 - [Peerlist : Portfolio Re-imagined](https://medium.com/@prathameshdukare/portfolio-re-imagined-7d4e2ddc05b) - non-technical 
 - [Adapting to endure🦄](https://medium.com/@prathameshdukare/adapting-to-endure-99421f493253) - non-technical
 <!-- BLOG-POST-LIST:END -->
